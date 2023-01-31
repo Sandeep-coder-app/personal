@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "25621826116",
+    "project_id": "bios-56a64",
+    "storage_bucket": "bios-56a64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25621826116:android:e4cf86223743d14ea0ca11",
+        "android_client_info": {
+          "package_name": "com.example.bio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25621826116-767ghibqe5qn464t3socnmvhv8aje6s1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuAkshzUd862M55YHkexEZ4BWshatgD8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25621826116-767ghibqe5qn464t3socnmvhv8aje6s1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
